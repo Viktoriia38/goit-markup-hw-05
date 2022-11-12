@@ -413,7 +413,6 @@ background: #188CE8;
 cursor: pointer;
 } 
 
-
 .button-secondary {
     color: var(--primary-text-color);
     background-color: var(--contrast-color);
@@ -432,7 +431,6 @@ cursor: pointer;
     transition-duration: 500ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }   
-
 
 .button-secondary.different {
     padding: 6px 25px;
